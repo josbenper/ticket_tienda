@@ -1,0 +1,1 @@
+@"D:\Django\cuni\venv\Scripts\python.exe" "D:\Django\cuni\venv\Scripts\markdown_py" %*
